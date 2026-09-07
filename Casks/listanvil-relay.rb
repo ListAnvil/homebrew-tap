@@ -1,6 +1,6 @@
 cask "listanvil-relay" do
-  version "0.5.0"
-  sha256 "1e1b9349acf3bb3abae4989733d477ab78dc4de814963305bf0664b094029426"
+  version "0.5.1"
+  sha256 "3c48e9e199300fb1fcc2e06c4531417776559d1ead3296694c35bf5c583192c7"
 
   url "https://github.com/ListAnvil/homebrew-tap/releases/download/relay-v#{version}/ListAnvil-Relay.dmg"
   name "ListAnvil Relay"
